@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'tutorials.apps.TutorialsConfig',
     'corsheaders',
+    'tutorials',
 
 ]
 
